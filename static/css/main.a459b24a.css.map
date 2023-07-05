@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.a459b24a.css","mappings":"AAAA,kBACE,oBAAqB,CACrB,YACF","sources":["styles/Banner.css"],"sourcesContent":[".banner-container {\n  background-color: red;\n  padding: 10px;\n}"],"names":[],"sourceRoot":""}
