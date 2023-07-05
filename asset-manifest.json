@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-props-practice/static/css/main.a459b24a.css",
-    "main.js": "/react-props-practice/static/js/main.48ec2e64.js",
+    "main.js": "/react-props-practice/static/js/main.ed3eb942.js",
     "index.html": "/react-props-practice/index.html",
     "main.a459b24a.css.map": "/react-props-practice/static/css/main.a459b24a.css.map",
-    "main.48ec2e64.js.map": "/react-props-practice/static/js/main.48ec2e64.js.map"
+    "main.ed3eb942.js.map": "/react-props-practice/static/js/main.ed3eb942.js.map"
   },
   "entrypoints": [
     "static/css/main.a459b24a.css",
-    "static/js/main.48ec2e64.js"
+    "static/js/main.ed3eb942.js"
   ]
 }
