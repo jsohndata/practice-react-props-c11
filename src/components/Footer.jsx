@@ -1,5 +1,5 @@
 
-const gitHubLink = "https://github.com/jsohndata/prop-banner";
+const gitHubLink = "https://github.com/jsohndata/react-props-practice";
 const fullYear = new Date().getFullYear();
 
 export default function Footer() {
