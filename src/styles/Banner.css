@@ -1,4 +1,7 @@
 .banner-container {
   background-color: red;
   padding: 10px;
+  margin-bottom: 3rem;
+  border-radius: 13px;
+  border: 8px solid rgba(0, 0, 0, 0.08);
 }

@@ -6,8 +6,9 @@ export default function Footer() {
 
   return (
     <footer>
-      <p>&copy; {fullYear}</p>
-      <p><a href={gitHubLink} target="_blank" rel="noreferrer">GitHub</a></p>
+      <p><small>&copy; {fullYear}</small>
+        <br />
+        <a href={gitHubLink} target="_blank" rel="noreferrer">GitHub</a></p>
     </footer>
   );
 }

@@ -1,6 +1,8 @@
 # Props Practrice
 Practicing the process of passing props, such as strings, integers, and objects, to a component in React.
 
+<br>
+
 ## Notes
 * Banner1: Passing Strings
 * Banner2: Passing an Object

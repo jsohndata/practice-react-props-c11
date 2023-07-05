@@ -11,32 +11,34 @@ import './styles/App.css';
 const bannerMaterialOne = {
   title: "Black Jacket",
   content: "Guess??",
-  bgColor: "cyan",
-  fontColor: "brown"
+  bgColor: "#240e8b",
+  fontColor: "#ffffff"
 };
 
 const bannerMaterialTwo = {
   title: "tied shirt",
   content: "roam the unkown",
-  bgColor: "grey",
+  bgColor: "#3c4cad",
   fontColor: "orange"
 }
 
 function App() {
   return (
     <>
+      <div id="main-container">
       <Main />
       <Body />
+
       <Banner1 
         title="Blue Sweater" 
         content="I wear white shoes"
-        bgColor="pink"
-        fontColor="red" />
+        bgColor="#f9c449"
+        fontColor="#232323" />
       <Banner1 
         title="Grey Sweater" 
         content="I wear pink socks"
-        bgColor="blue"
-        fontColor="white" />
+        bgColor="#f04393"
+        fontColor="#232323" />
 
       <Banner2 info={bannerMaterialOne} />
 
@@ -47,6 +49,7 @@ function App() {
         shirt="puma"
         data={bannerMaterialOne} />
       <Footer />
+      </div>
     </>
   );
 }
