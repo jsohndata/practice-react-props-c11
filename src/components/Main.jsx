@@ -2,7 +2,7 @@ export default function Main() {
 
   return (
     <main>
-      <h1>React Props Practice</h1>
+      <h1>Practice React Props</h1>
     </main>
   )
 }
