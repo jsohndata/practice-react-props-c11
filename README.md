@@ -1,6 +1,13 @@
 # Props Practrice
 Practicing the process of passing props, such as strings, integers, and objects, to a component in React.
 
+[![read me](./public/images/readme.webp)](https://jsohndata.github.io/react-props-practice/)
+
+<br>
+
+## Website
+* 👉 [jsohndata.github.io/react-props-practice](https://jsohndata.github.io/react-props-practice/)
+
 <br>
 
 ## Notes
